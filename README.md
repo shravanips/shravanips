@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Shravani Sawant, you can call me Shravani or Shravu 
+
+Currently I am a CS graduate student at Stevens Institute of Technology, and my concentration is Cybersecurity.
+
+✨ Currently exploring:
+- AI security
+- Cybersecurity + privacy automation (TrapTrack)  
+- Web programming
+- Data Analysis 
+
+💻 I love building:
+- Intelligent agents  
+- Security tools  
+- Clean UI/UX dashboards  
+- ML/RL experiments  
+
+📫 Reach me at: shravanisawant@stevens.edu  
