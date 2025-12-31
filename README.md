@@ -1,38 +1,35 @@
 ## Hi there 👋
 
-<!--
-**shravanips/shravanips** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 I’m **Shravani Pranay Sawant** 
 
-Here are some ideas to get you started:
+You can call me *Shravani* or *Shravu*.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m currently a **CS graduate student at Stevens Institute of Technology**, with a concentration in **Cybersecurity**.  
+My interests sit at the intersection of **security, systems, and intelligent automation**, where I enjoy exploring how ideas turn into real, usable tools.
 
-I'm Shravani Sawant, you can call me Shravani or Shravu 
+---
 
-Currently I am a CS graduate student at Stevens Institute of Technology, and my concentration is Cybersecurity.
+✨ **Currently exploring**
+- AI security  
+- Cybersecurity & privacy automation *(TrapTrack)*  
+- Web programming  
+- Data analysis  
 
-✨ Currently exploring:
-- AI security
-- Cybersecurity + privacy automation (TrapTrack)  
-- Web programming
-- Data Analysis 
+---
 
-💻 I love building:
+💻 **I love building**
 - Intelligent agents  
-- Security tools  
-- Clean UI/UX dashboards  
-- ML/RL experiments  
+- Security-focused tools  
+- Clean and thoughtful UI/UX dashboards  
+- ML / RL experiments  
 
-If you want to know more about me or just want to have a quick chat about cybersec, tech and or just want to say "Hi!", or have doubts after reading my repo's:
-<br>📫 Reach me at: ssawant10@stevens.edu or shravanipps03@gmail.com
-<br> 
-🌐 My website: https://shravanips.github.io/ - a living space and notes from my journey for research, systems, and cybersecurity
+---
 
+If you’d like to know more about my work, discuss cybersecurity or research ideas, or simply say *hi* after browsing my repositories:
+
+📫 **Reach me at:**  
+- ssawant10@stevens.edu  
+- shravanipps03@gmail.com  
+
+🌐 **My website:**  
+https://shravanips.github.io/ - *a living space and my journey of my research, systems work, and security experiments*
