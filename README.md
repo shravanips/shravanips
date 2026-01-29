@@ -36,10 +36,10 @@ https://shravanips.github.io/ - *a living space and my journey of my research, s
 
 ---
 
-📊 **GitHub Stats:**
+### 📊 GitHub Stats
 ![Shravani's GitHub stats](https://github-readme-stats.vercel.app/api?username=shravanips&show_icons=true&theme=default)
 
-💻 **Most Used Languages:**
+### 💻 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shravanips&layout=compact)
 
 ---
