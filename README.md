@@ -3,7 +3,10 @@
      Researcher + Builder
 ========================== -->
 
-<!-- [![Header](https://capsule-render.vercel.app/api?type=waving&color=0:120b2b,45:1b1240,100:0b0a16&height=280&section=header&text=Hi,%20I’m%20Shravani%20Sawant&fontSize=56&fontColor=f4f4ff&animation=fadeIn&fontAlignY=38&desc=AI%20Security%20•%20Cybersecurity%20•%20Systems%20•%20Intelligent%20Automation&descSize=18&descAlignY=60)](https://github.com/shravanips) -->
+<!-- Optional banner (disabled for now) -->
+<!--
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:120b2b,45:1b1240,100:0b0a16&height=280&section=header&text=Hi,%20I’m%20Shravani%20Sawant&fontSize=56&fontColor=f4f4ff&animation=fadeIn&fontAlignY=38&desc=AI%20Security%20•%20Cybersecurity%20•%20Systems%20•%20Intelligent%20Automation&descSize=18&descAlignY=60)](https://github.com/shravanips)
+-->
 
 <!-- ONE single animated "terminal whoami" block -->
 <p align="center">
@@ -81,16 +84,21 @@ My interests sit at the intersection of **security, systems, and intelligent aut
 ---
 
 ## 📊 GitHub snapshot
+
+<!-- Use stable widgets (dooboo stats + vercel stats can break/paused) -->
 <p align="center">
-  <img src="https://stats.dooboo.io/api/github-stats?username=shravanips" height="160" />
-  <img src="https://streak-stats.demolab.com?user=shravanips" height="160" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=shravanips&hide_border=true"
+    height="160"
+    alt="GitHub Streak"
+  />
 </p>
 
-<!-- Cleaner languages card (hide noisy ones if they dominate) -->
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravanips&layout=compact&hide=php,stylus&hide_border=true&langs_count=6"
     height="160"
+    alt="Top Languages"
   />
 </p>
 
@@ -103,8 +111,9 @@ If you’d like to discuss **AI security research**, **cybersecurity ideas**, or
 - **shravanipps03@gmail.com**
 - **ssawant10@stevens.edu**
 
-🌐 **Website:** https://shravanips.github.io/  
-*A living space for my research notes, systems work, and security experiments.*
+🌐 **Website:** 
+
+- *https://shravanips.github.io/*  - *A living space for my research notes, systems work, and security experiments.*
 
 ---
 
