@@ -33,3 +33,19 @@ If you’d like to know more about my work, discuss cybersecurity or research id
 
 🌐 **My website:**  
 https://shravanips.github.io/ - *a living space and my journey of my research, systems work, and security experiments*
+
+---
+
+📊 **GitHub Stats:**
+![Shravani's GitHub stats](https://github-readme-stats.vercel.app/api?username=shravanips&show_icons=true&theme=default)
+
+💻 **Most Used Languages:**
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shravanips&layout=compact)
+
+---
+
+![Profile views](https://komarev.com/ghpvc/?username=shravanips)
+
+![Typing SVG](https://readme-typing-svg.demolab.com?lines=Cybersecurity+Graduate+Student;AI+Security+Researcher;Building+Security+Tools)
+
+
