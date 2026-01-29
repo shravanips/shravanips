@@ -8,7 +8,7 @@
 <!-- ONE single animated "terminal whoami" block -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2200&pause=600&center=true&vCenter=true&multiline=true&width=900&height=120&lines=%24+whoami;Shravani+Sawant;AI+Security+%C2%B7+Cybersecurity+%C2%B7+Systems+%C2%B7+Intelligent+Automation"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2200&pause=600&center=true&vCenter=true&multiline=true&width=900&height=120&lines=%24+whoami;Shravani+Sawant;AI+Security+%C2%B7+Cybersecurity+%C2%B7+Systems+%C2%B7+Automation"
     alt="Typing SVG"
   />
 </p>
