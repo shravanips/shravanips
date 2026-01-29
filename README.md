@@ -20,7 +20,7 @@
 
 ## 👋 About me
 👩‍💻 I’m **Shravani Pranay Sawant** 
-<pre>   you can call me *Shravani* or *Shravu*   </pre>  
+<pre>   you can call me <i>Shravu</i> or <i>Aani</i>   </pre>  
 I’m a **CS graduate (majors Cybersecurity) student at Stevens Institute of Technology**.  
 
 My interests sit at the intersection of **security, systems, and intelligent automation** — where I enjoy turning research ideas into **measurable, reproducible, and usable** tools.
