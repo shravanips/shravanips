@@ -1,47 +1,95 @@
-## Hi there 👋
+<!-- =========================
+     Shravani GitHub Profile
+     Researcher + Builder
+========================== -->
 
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:120b2b,45:1b1240,100:0b0a16&height=280&section=header&text=Hi,%20I’m%20Shravani%20Sawant&fontSize=56&fontColor=f4f4ff&animation=fadeIn&fontAlignY=38&desc=AI%20Security%20•%20Cybersecurity%20•%20Systems%20•%20Intelligent%20Automation&descSize=18&descAlignY=60)](https://github.com/shravanips)
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&duration=2600&pause=600&center=true&vCenter=true&width=780&lines=CS+Graduate+Student+%40+Stevens+%7C+Cybersecurity;AI+Security+%2B+Systems+Researcher+who+builds+real+tools;Privacy+Automation+%7C+Threat+Modeling+%7C+ML%2FRL+Experiments;Dashboards+that+turn+analysis+into+decisions" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://shravanips.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-shravanips.github.io-1b1240?style=flat-square&logo=about.me&logoColor=white"></a>
+  <a href="mailto:ssawant10@stevens.edu"><img alt="Email" src="https://img.shields.io/badge/Email-ssawant10%40stevens.edu-120b2b?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="mailto:shravanipps03@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-shravanipps03%40gmail.com-0b0a16?style=flat-square&logo=gmail&logoColor=white"></a>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=shravanips&label=Profile%20views&color=6a5acd&style=flat-square" />
+</p>
+
+---
+
+## 👋 About me
 👩‍💻 I’m **Shravani Pranay Sawant** 
+<pre>   you can call me *Shravani* or *Shravu*   </pre>  
+I’m a **CS graduate (majors Cybersecurity) student at Stevens Institute of Technology**.  
 
-You can call me *Shravani* or *Shravu*.
+My interests sit at the intersection of **security, systems, and intelligent automation** — where I enjoy turning research ideas into **measurable, reproducible, and usable** tools.
 
-I’m currently a **CS graduate student at Stevens Institute of Technology**, with a concentration in **Cybersecurity**.  
-My interests sit at the intersection of **security, systems, and intelligent automation**, where I enjoy exploring how ideas turn into real, usable tools.
-
----
-
-✨ **Currently exploring**
-- AI security  
-- Cybersecurity & privacy automation *(TrapTrack)*  
-- Web programming  
-- Data analysis  
+**What I care about:** threat models that make sense, experiments you can rerun, and tooling that helps users (not just papers).
 
 ---
 
-💻 **I love building**
-- Intelligent agents  
-- Security-focused tools  
-- Clean and thoughtful UI/UX dashboards  
-- ML / RL experiments  
+## 🔎 What I’m exploring right now
+- **AI Security** (inference-time risks, system-side leakage, secure evaluation)
+- **Cybersecurity & privacy automation** *(TrapTrack + similar ideas)*
+- **Security-aware systems work** (reliability, instrumentation, debugging)
+- **Data exploration + dashboards** (telling the “why”, not just plotting)
 
 ---
 
-If you’d like to know more about my work, discuss cybersecurity or research ideas, or simply say *hi* after browsing my repositories:
-
-📫 **Reach me at:**  
-- ssawant10@stevens.edu  
-- shravanipps03@gmail.com  
-
-🌐 **My website:**  
-https://shravanips.github.io/ - *a living space and my journey of my research, systems work, and security experiments*
+## 🧠 I love building (research → tool)
+- **Security-focused tools** with clear threat models + practical outputs  
+- **Intelligent agents / LLM workflows** (careful, testable, not “magic”)  
+- **Clean UI/UX dashboards** that feel like a product  
+- **ML / RL experiments** with logs, baselines, and sanity checks
 
 ---
 
-### 📊 GitHub Activity
-![Shravani's GitHub stats](https://stats.dooboo.io/api/github-stats?username=shravanips)
+## 🧩 A few projects that represent me
+*(I’m keeping this section curated — quality > quantity)*
+
+- **TrapTrack — Privacy & Consent Automation**
+  - Automates consent flows, tracks storage/script behavior, and flags risky patterns 
+
+- **SERI — Scam Exposure Risk Index**
+  - Threat assessment + risk scoring + controls/residual risk framing  
+
+- **Interactive Arrest Data Analysis (Full-Stack)**
+  - Search, filtering, visualization + backend logic built like a real product  
+
+- **Systems Programming: Mini Shell**
+  - Process management, signals, job control — correctness-first implementation  
 
 ---
 
+## 📊 GitHub snapshot
+<p align="center">
+  <img src="https://stats.dooboo.io/api/github-stats?username=shravanips" height="160" />
+  <img src="https://streak-stats.demolab.com?user=shravanips" height="160" />
+</p>
 
-![Profile views](https://komarev.com/ghpvc/?username=shravanips)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravanips&layout=compact&hide_border=true" height="160" />
+</p>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?lines=Cybersecurity+Graduate+Student;AI+Security+Researcher;Building+Security+Tools)
+---
+
+## 🤝 If you want to talk
+If you’d like to discuss **AI security research**, **cybersecurity ideas**, or simply say *hi* after browsing my repos:
+
+📫 **Reach me at**
+- **shravanipps03@gmail.com**
+- **ssawant10@stevens.edu**
+
+🌐 **Website:** https://shravanips.github.io/  
+*A living space for my research notes, systems work, and security experiments.*
+
+---
+
+<!-- Optional fun section (enable later):
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
+  <img alt="github-snake" src="./assets/github-snake.svg" style="width: 100%;" />
+</picture>
+-->
