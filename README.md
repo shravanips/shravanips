@@ -86,10 +86,11 @@ If you’d like to discuss **AI security research**, **cybersecurity ideas**, or
 
 ---
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shravanips/shravanips/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shravanips/shravanips/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/shravanips/shravanips/output/github-snake.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shravanips/shravanips/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shravanips/shravanips/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/shravanips/shravanips/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
+
 
 ---
 <!-- Optional fun section (enable later):
