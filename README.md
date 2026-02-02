@@ -77,7 +77,7 @@ My interests sit at the intersection of **security, systems, and intelligent aut
   - Process management, signals, job control — correctness-first implementation
 
 ---
-
+<!--
 ## 📊 GitHub Synopsis
 
 <p align="center">
@@ -89,6 +89,7 @@ My interests sit at the intersection of **security, systems, and intelligent aut
 </p>
 
 ---
+-->
 
 ## 🧰 Tech Stack
 
