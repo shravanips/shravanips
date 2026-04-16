@@ -35,7 +35,7 @@
 
 ## 👋 About me
 👩‍💻 I’m **Shravani Pranay Sawant**  
-<pre>   you can call me <i>Shravu</i> or <i>Aani</i>   </pre>
+<pre>  call me <i>Shravu</i> or <i>Aani</i>  </pre>
 
 I’m a **CS graduate student (Cybersecurity) at Stevens Institute of Technology**.
 
