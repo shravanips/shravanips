@@ -56,7 +56,6 @@ My interests sit at the intersection of **security, systems, and intelligent aut
 ## 🧠 I love building (research → tool)
 - **Security-focused tools** with clear threat models + practical outputs
 - **Intelligent agents / LLM workflows** (careful, testable, not “magic”)
-- **Clean UI/UX dashboards** that feel like a product
 - **ML / RL experiments** with logs, baselines, and sanity checks
 
 ---
