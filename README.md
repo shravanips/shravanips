@@ -258,3 +258,15 @@ If you’d like to discuss **AI security research**, **cybersecurity ideas**, or
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shravanips/shravanips/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/shravanips/shravanips/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
+
+---
+
+## 📈 3D Contribution Graph
+
+<p align="center">
+  <img 
+    src="./profile-3d-contrib/profile-green-animate.svg" 
+    alt="3D Contribution Graph"
+    width="100%"
+  />
+</p>
