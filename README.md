@@ -63,17 +63,15 @@ My interests sit at the intersection of **security, systems, and intelligent aut
 ## 🧩 A few projects that represent me
 *(I’m keeping this section curated — quality > quantity)*
 
+- **SK_Scout - Suspicious Activity Detection Framework for GitHub Ecosystems**
+  - Analysis system designed to detect suspicious, automated, and coordinated activity in large-scale software ecosystems like GitHub
+
 - **TrapTrack — Privacy & Consent Automation**
   - Automates consent flows, tracks storage/script behavior, and flags risky patterns
 
 - **SERI — Scam Exposure Risk Index**
   - Threat assessment + risk scoring + controls/residual risk framing
 
-- **Interactive Arrest Data Analysis (Full-Stack)**
-  - Search, filtering, visualization + backend logic built like a real product
-
-- **Systems Programming: Mini Shell**
-  - Process management, signals, job control — correctness-first implementation
 
 ---
 <!--
